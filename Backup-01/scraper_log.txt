@@ -1,0 +1,556 @@
+[2025-04-15 16:33:29] [INFO] [•] Suche: klempner in frankfurt
+[2025-04-15 16:33:30] [INFO] Scrape: https://www.11880.com/suche/klempner/frankfurt?page=1
+[2025-04-15 16:33:35] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 16:33:35] [INFO] [1/50] Mima UG → https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:33:35] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:33:40] [INFO] 🔎 Detaildaten: name=Mima UG, phone=None, email=None, website=https://mimabau.de/, address=Autogenstr. 50 
+                                                                                    
+                                                                                                                
+                                            65933
+                                            Frankfurt
+                                                                                            (Griesheim)
+[2025-04-15 16:33:40] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:33:40] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:33:41] [INFO] [2/50] AS Bedachungen → https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:33:41] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:33:45] [INFO] 🔎 Detaildaten: name=AS Bedachungen, phone=None, email=None, website=http://www.asbedachungen.de/, address=Alt-Zeilsheim 44 
+                                                                                    
+                                                                                                                
+                                            65931
+                                            Frankfurt
+                                                                                            (Zeilsheim)
+[2025-04-15 16:33:45] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:33:45] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:33:46] [INFO] [3/50] Heizungsmeisterei Duman → https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:33:46] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:33:51] [INFO] 🔎 Detaildaten: name=Heizungsmeisterei Duman, phone=None, email=None, website=https://heizungsmeisterei-duman.de, address=Halmstr. 2 
+                                                                                    
+                                                                                                                
+                                            60327
+                                            Frankfurt
+                                                                                            (Gutleutviertel)
+[2025-04-15 16:33:51] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:33:51] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:33:52] [INFO] [4/50] Abendroth Heiztec → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:33:52] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:33:53] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html", waiting until "load"
+
+[2025-04-15 16:33:53] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 5: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 6: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 7: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 8: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 9: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 10: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 11: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 12: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 13: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 14: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 15: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 16: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 17: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 18: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 19: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:33:54] [INFO] [✓] Gesamt gefunden: 0
+[2025-04-15 16:33:54] [INFO] [⚠] Veraltet/Keine Website: 0
+[2025-04-15 16:37:55] [INFO] [•] Suche: klempner in frankfurt
+[2025-04-15 16:37:56] [INFO] Scrape: https://www.11880.com/suche/klempner/frankfurt?page=1
+[2025-04-15 16:38:01] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 16:38:01] [INFO] [1/50] Mima UG → https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:38:01] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:38:06] [INFO] 🔎 Detaildaten: name=Mima UG, phone=None, email=None, website=https://mimabau.de/, address=Autogenstr. 50 
+                                                                                    
+                                                                                                                
+                                            65933
+                                            Frankfurt
+                                                                                            (Griesheim)
+[2025-04-15 16:38:06] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:38:06] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:38:07] [INFO] [2/50] Heizungsmeisterei Duman → https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:38:07] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:38:12] [INFO] 🔎 Detaildaten: name=Heizungsmeisterei Duman, phone=None, email=None, website=https://heizungsmeisterei-duman.de, address=Halmstr. 2 
+                                                                                    
+                                                                                                                
+                                            60327
+                                            Frankfurt
+                                                                                            (Gutleutviertel)
+[2025-04-15 16:38:12] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:38:12] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:38:13] [INFO] [3/50] Abendroth Heiztec → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:38:13] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:38:18] [INFO] 🔎 Detaildaten: name=Abendroth Heiztec, phone=None, email=None, website=http://www.abendroth-heizung.de, address=Lochmühlstr. 1 
+                                                                                    
+                                                                                                                
+                                            60437
+                                            Frankfurt
+                                                                                            (Nieder-Erlenbach)
+[2025-04-15 16:38:18] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:38:18] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:38:19] [INFO] [4/50] AS Bedachungen → https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:38:19] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:38:24] [INFO] 🔎 Detaildaten: name=AS Bedachungen, phone=None, email=None, website=http://www.asbedachungen.de/, address=Alt-Zeilsheim 44 
+                                                                                    
+                                                                                                                
+                                            65931
+                                            Frankfurt
+                                                                                            (Zeilsheim)
+[2025-04-15 16:38:24] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:38:24] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:38:25] [INFO] [5/50] Cuffaro Bau GmbH → https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B113339385/cuffaro-bau-gmbh.html
+[2025-04-15 16:38:25] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B113339385/cuffaro-bau-gmbh.html
+[2025-04-15 16:38:27] [INFO] 🔎 Detaildaten: name=Cuffaro Bau GmbH, phone=None, email=None, website=None, address=None
+[2025-04-15 16:38:27] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B113339385/cuffaro-bau-gmbh.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:38:27] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B113339385/cuffaro-bau-gmbh.html
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 6: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 7: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 8: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 9: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 10: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 11: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 12: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 13: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 14: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 15: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 16: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 17: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 18: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 19: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:38:28] [INFO] [✓] Gesamt gefunden: 0
+[2025-04-15 16:38:28] [WARNING] [!] Keine Daten zum Exportieren.
+[2025-04-15 16:41:42] [INFO] [•] Suche: klempner in frankfurt
+[2025-04-15 16:41:43] [INFO] Scrape: https://www.11880.com/suche/klempner/frankfurt?page=1
+[2025-04-15 16:41:48] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 16:41:48] [INFO] [1/50] Mima UG → https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:41:48] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:41:53] [INFO] 🔎 Detaildaten: name=Mima UG, phone=None, email=None, website=https://mimabau.de/, address=Autogenstr. 50 
+                                                                                    
+                                                                                                                
+                                            65933
+                                            Frankfurt
+                                                                                            (Griesheim)
+[2025-04-15 16:41:53] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:41:53] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:41:54] [INFO] [2/50] AS Bedachungen → https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:41:54] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:41:59] [INFO] 🔎 Detaildaten: name=AS Bedachungen, phone=None, email=None, website=http://www.asbedachungen.de/, address=Alt-Zeilsheim 44 
+                                                                                    
+                                                                                                                
+                                            65931
+                                            Frankfurt
+                                                                                            (Zeilsheim)
+[2025-04-15 16:41:59] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:41:59] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:42:00] [INFO] [3/50] Abendroth Heiztec → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:42:00] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:42:03] [INFO] 🔎 Detaildaten: name=Abendroth Heiztec, phone=None, email=None, website=http://www.abendroth-heizung.de, address=Lochmühlstr. 1 
+                                                                                    
+                                                                                                                
+                                            60437
+                                            Frankfurt
+                                                                                            (Nieder-Erlenbach)
+[2025-04-15 16:42:03] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html: Business.__init__() missing 1 required positional argument: 'email'
+[2025-04-15 16:42:03] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 4: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 5: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 6: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 7: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 8: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 9: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 10: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 11: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 12: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 13: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 14: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 15: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 16: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 17: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 18: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 19: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:04] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:42:05] [INFO] [✓] Gesamt gefunden: 0
+[2025-04-15 16:42:05] [WARNING] [!] Keine Daten zum Exportieren.
+[2025-04-15 16:43:54] [INFO] [•] Suche: klempner in frankfurt
+[2025-04-15 16:43:55] [INFO] Scrape: https://www.11880.com/suche/klempner/frankfurt?page=1
+[2025-04-15 16:44:01] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 16:44:01] [INFO] [1/50] Mima UG → https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:44:01] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:44:06] [INFO] 🔎 Detaildaten: name=Mima UG, phone=None, email=None, website=https://mimabau.de/, address=Autogenstr. 50 
+                                                                                    
+                                                                                                                
+                                            65933
+                                            Frankfurt
+                                                                                            (Griesheim)
+[2025-04-15 16:44:06] [INFO] ✅ Gespeichert: Mima UG | https://mimabau.de/
+[2025-04-15 16:44:07] [INFO] [2/50] Abendroth Heiztec → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:44:07] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:44:12] [INFO] 🔎 Detaildaten: name=Abendroth Heiztec, phone=None, email=None, website=http://www.abendroth-heizung.de, address=Lochmühlstr. 1 
+                                                                                    
+                                                                                                                
+                                            60437
+                                            Frankfurt
+                                                                                            (Nieder-Erlenbach)
+[2025-04-15 16:44:12] [INFO] ✅ Gespeichert: Abendroth Heiztec | http://www.abendroth-heizung.de
+[2025-04-15 16:44:13] [INFO] [3/50] Heizungsmeisterei Duman → https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:44:13] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:44:18] [INFO] 🔎 Detaildaten: name=Heizungsmeisterei Duman, phone=None, email=None, website=https://heizungsmeisterei-duman.de, address=Halmstr. 2 
+                                                                                    
+                                                                                                                
+                                            60327
+                                            Frankfurt
+                                                                                            (Gutleutviertel)
+[2025-04-15 16:44:18] [INFO] ✅ Gespeichert: Heizungsmeisterei Duman | https://heizungsmeisterei-duman.de
+[2025-04-15 16:44:19] [INFO] [4/50] AS Bedachungen → https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:44:19] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:44:23] [INFO] 🔎 Detaildaten: name=AS Bedachungen, phone=None, email=None, website=http://www.asbedachungen.de/, address=Alt-Zeilsheim 44 
+                                                                                    
+                                                                                                                
+                                            65931
+                                            Frankfurt
+                                                                                            (Zeilsheim)
+[2025-04-15 16:44:23] [INFO] ✅ Gespeichert: AS Bedachungen | http://www.asbedachungen.de/
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 5: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 6: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 7: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 8: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 9: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 10: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 11: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 12: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 13: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 14: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 15: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 16: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 17: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 18: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 19: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:24] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:44:25] [INFO] [✓] Gesamt gefunden: 4
+[2025-04-15 16:44:25] [INFO] [⚠] Veraltet/Keine Website: 2
+[2025-04-15 16:50:35] [INFO] [•] Suche: klempner in frankfurt
+[2025-04-15 16:50:36] [INFO] Scrape: https://www.11880.com/suche/klempner/frankfurt?page=1
+[2025-04-15 16:50:41] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 16:50:41] [INFO] [1/50] Mima UG → https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:50:41] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060693517B113167436/mima-ug.html
+[2025-04-15 16:50:44] [INFO] 🔎 Detaildaten: name=Mima UG, phone=None, email=majanik79@gmail.com, website=https://mimabau.de/, address=Autogenstr. 50 
+                                                                                    
+                                                                                                                
+                                            65933
+                                            Frankfurt
+                                                                                            (Griesheim)
+[2025-04-15 16:50:44] [INFO] ✅ Gespeichert: Mima UG | https://mimabau.de/
+[2025-04-15 16:50:45] [INFO] [2/50] AS Bedachungen → https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:50:45] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B102040109/as-bedachungen.html
+[2025-04-15 16:50:47] [INFO] 🔎 Detaildaten: name=AS Bedachungen, phone=None, email=info@asbedachungen.de, website=http://www.asbedachungen.de/, address=Alt-Zeilsheim 44 
+                                                                                    
+                                                                                                                
+                                            65931
+                                            Frankfurt
+                                                                                            (Zeilsheim)
+[2025-04-15 16:50:47] [INFO] ✅ Gespeichert: AS Bedachungen | http://www.asbedachungen.de/
+[2025-04-15 16:50:48] [INFO] [3/50] Heizungsmeisterei Duman → https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:50:48] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/130732316B107334221/heizungsmeisterei-duman.html
+[2025-04-15 16:50:51] [INFO] 🔎 Detaildaten: name=Heizungsmeisterei Duman, phone=None, email=duman@heizungsmeisterei-duman.de, website=https://heizungsmeisterei-duman.de, address=Halmstr. 2 
+                                                                                    
+                                                                                                                
+                                            60327
+                                            Frankfurt
+                                                                                            (Gutleutviertel)
+[2025-04-15 16:50:51] [INFO] ✅ Gespeichert: Heizungsmeisterei Duman | https://heizungsmeisterei-duman.de
+[2025-04-15 16:50:52] [INFO] [4/50] Abendroth Heiztec → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:50:52] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B29257961/abendroth-heiztec.html
+[2025-04-15 16:50:55] [INFO] 🔎 Detaildaten: name=Abendroth Heiztec, phone=None, email=info@abendroth-heizung.de, website=http://www.abendroth-heizung.de, address=Lochmühlstr. 1 
+                                                                                    
+                                                                                                                
+                                            60437
+                                            Frankfurt
+                                                                                            (Nieder-Erlenbach)
+[2025-04-15 16:50:55] [INFO] ✅ Gespeichert: Abendroth Heiztec | http://www.abendroth-heizung.de
+[2025-04-15 16:50:56] [INFO] [5/50] Cuffaro Bau GmbH → https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B113339385/cuffaro-bau-gmbh.html
+[2025-04-15 16:50:56] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/132381074B113339385/cuffaro-bau-gmbh.html
+[2025-04-15 16:50:59] [INFO] 🔎 Detaildaten: name=Cuffaro Bau GmbH, phone=None, email=info@cuffarobau.de, website=https://cuffarobau.de, address=An den Gerlachswiesen 6 
+                                                                                    
+                                                                                                                
+                                            60388
+                                            Frankfurt
+                                                                                            (Bergen-Enkheim)
+[2025-04-15 16:50:59] [INFO] ✅ Gespeichert: Cuffaro Bau GmbH | https://cuffarobau.de
+[2025-04-15 16:51:00] [INFO] [6/50] Achahboun Heizung Sanitär → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112457782/achahboun-heizung-sanitaer.html
+[2025-04-15 16:51:00] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112457782/achahboun-heizung-sanitaer.html
+[2025-04-15 16:51:05] [INFO] 🔎 Detaildaten: name=Achahboun Heizung Sanitär, phone=None, email=None, website=http://www.achahboun-shk.de, address=West-Höchster Str. 65 
+                                                                                    
+                                                                                                                
+                                            65931
+                                            Frankfurt
+                                                                                            (Zeilsheim)
+[2025-04-15 16:51:05] [INFO] ✅ Gespeichert: Achahboun Heizung Sanitär | http://www.achahboun-shk.de
+[2025-04-15 16:51:06] [INFO] [7/50] Andreas Richter Meisterbetrieb Sanitär Heizung Klima GmbH → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B107489912/andreas-richter-meisterbetrieb-sanitaer-heizung-klima-gmbh.html
+[2025-04-15 16:51:06] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B107489912/andreas-richter-meisterbetrieb-sanitaer-heizung-klima-gmbh.html
+[2025-04-15 16:51:09] [INFO] 🔎 Detaildaten: name=Andreas Richter Meisterbetrieb Sanitär Heizung Klima GmbH, phone=None, email=kontakt@richter-shk.de, website=http://www.richter-shk.de/, address=Zur Untermühle 45 
+                                                                                    
+                                                                                                                
+                                            60437
+                                            Frankfurt
+                                                                                            (Harheim)
+[2025-04-15 16:51:09] [INFO] ✅ Gespeichert: Andreas Richter Meisterbetrieb Sanitär Heizung Klima GmbH | http://www.richter-shk.de/
+[2025-04-15 16:51:10] [INFO] [8/50] Gebatec Gebäude- und Versorgungstechnik GmbH → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112556167/gebatec-gebaeude-und-versorgungstechnik-gmbh.html
+[2025-04-15 16:51:10] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112556167/gebatec-gebaeude-und-versorgungstechnik-gmbh.html
+[2025-04-15 16:51:13] [INFO] 🔎 Detaildaten: name=Gebatec Gebäude- und Versorgungstechnik GmbH, phone=None, email=info@gebatec.gmbh, website=https://gebatec.gmbh, address=An der Welle 4 
+                                                                                    
+                                                                                                                
+                                            60322
+                                            Frankfurt
+                                                                                            (Westend-Süd)
+[2025-04-15 16:51:13] [INFO] ✅ Gespeichert: Gebatec Gebäude- und Versorgungstechnik GmbH | https://gebatec.gmbh
+[2025-04-15 16:51:14] [INFO] [9/50] HLS Anlagenbau GmbH & Co KG → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B107466733/hls-anlagenbau-gmbh-co-kg.html
+[2025-04-15 16:51:14] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B107466733/hls-anlagenbau-gmbh-co-kg.html
+[2025-04-15 16:51:20] [INFO] 🔎 Detaildaten: name=HLS Anlagenbau GmbH & Co KG, phone=None, email=hlsanlagenbau@hotmail.de, website=None, address=Am Wäldchen 7 
+                                                                                    
+                                                                                                                
+                                            65929
+                                            Frankfurt
+                                                                                            (Höchst)
+[2025-04-15 16:51:20] [INFO] ✅ Gespeichert: HLS Anlagenbau GmbH & Co KG | None
+[2025-04-15 16:51:21] [INFO] [10/50] Jordan & Kremer GmbH → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B28194409/jordan-kremer-gmbh.html
+[2025-04-15 16:51:21] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B28194409/jordan-kremer-gmbh.html
+[2025-04-15 16:51:24] [INFO] 🔎 Detaildaten: name=Jordan & Kremer GmbH, phone=None, email=info@jordanundkremer.de, website=https://www.jordanundkremer.de/, address=Sandweg 147 
+                                                                                    
+                                                                                                                
+                                            60316
+                                            Frankfurt
+                                                                                            (Nordend-Ost)
+[2025-04-15 16:51:24] [INFO] ✅ Gespeichert: Jordan & Kremer GmbH | https://www.jordanundkremer.de/
+[2025-04-15 16:51:25] [INFO] [11/50] Karl Lotz GmbH & Co. KG → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B27257344/karl-lotz-gmbh-co-kg.html
+[2025-04-15 16:51:25] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B27257344/karl-lotz-gmbh-co-kg.html
+[2025-04-15 16:51:28] [INFO] 🔎 Detaildaten: name=Karl Lotz GmbH & Co. KG, phone=None, email=info@lotz-karl.de, website=https://www.lotz-karl.de, address=Berger Str. 448 a
+                                                                                    
+                                                                                                                
+                                            60385
+                                            Frankfurt
+                                                                                            (Bornheim)
+[2025-04-15 16:51:28] [INFO] ✅ Gespeichert: Karl Lotz GmbH & Co. KG | https://www.lotz-karl.de
+[2025-04-15 16:51:29] [INFO] [12/50] WIGA GmbH Wartung- → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112555306/wiga-gmbh-wartung.html
+[2025-04-15 16:51:29] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112555306/wiga-gmbh-wartung.html
+[2025-04-15 16:51:34] [INFO] 🔎 Detaildaten: name=WIGA GmbH Wartung-, phone=None, email=None, website=https://www.wartung-gasgeraete.de, address=Boskoopstr. 73 
+                                                                                    
+                                                                                                                
+                                            60435
+                                            Frankfurt
+                                                                                            (Preungesheim)
+[2025-04-15 16:51:34] [INFO] ✅ Gespeichert: WIGA GmbH Wartung- | https://www.wartung-gasgeraete.de
+[2025-04-15 16:51:35] [INFO] [13/50] Zieg + Liphardt GmbH & Co.KG → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B27556194/zieg-liphardt-gmbh-co-kg.html
+[2025-04-15 16:51:35] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B27556194/zieg-liphardt-gmbh-co-kg.html
+[2025-04-15 16:51:38] [INFO] 🔎 Detaildaten: name=Zieg + Liphardt GmbH & Co.KG, phone=None, email=kontakt@zieg-liphardt.de, website=http://www.zieg-liphardt.de/, address=Neuhofstr. 43 
+                                                                                    
+                                                                                                                
+                                            60318
+                                            Frankfurt
+                                                                                            (Nordend-West)
+[2025-04-15 16:51:38] [INFO] ✅ Gespeichert: Zieg + Liphardt GmbH & Co.KG | http://www.zieg-liphardt.de/
+[2025-04-15 16:51:39] [INFO] [14/50] Akin Bülent Installationsbetrieb → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B102641489/akin-buelent-installationsbetrieb.html
+[2025-04-15 16:51:39] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B102641489/akin-buelent-installationsbetrieb.html
+[2025-04-15 16:51:45] [INFO] 🔎 Detaildaten: name=Akin Bülent Installationsbetrieb, phone=None, email=firmaakin@gmx.de, website=None, address=Mathildenstr. 21 
+                                                                                    
+                                                                                                                
+                                            60599
+                                            Frankfurt
+                                                                                            (Oberrad)
+[2025-04-15 16:51:45] [INFO] ✅ Gespeichert: Akin Bülent Installationsbetrieb | None
+[2025-04-15 16:51:46] [INFO] [15/50] Energiepro e.K. → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112477061/energiepro-e-k.html
+[2025-04-15 16:51:46] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112477061/energiepro-e-k.html
+[2025-04-15 16:51:51] [INFO] 🔎 Detaildaten: name=Energiepro e.K., phone=None, email=None, website=https://www.energiepro.de, address=Berner Str. 107 
+                                                                                    
+                                                                                                                
+                                            60437
+                                            Frankfurt
+                                                                                            (Nieder-Eschbach)
+[2025-04-15 16:51:51] [INFO] ✅ Gespeichert: Energiepro e.K. | https://www.energiepro.de
+[2025-04-15 16:51:52] [INFO] [16/50] Energiepro Service- und Instandhaltungsmanagement TGA GmbH → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112460518/energiepro-service-und-instandhaltungsmanagement-tga-gmbh.html
+[2025-04-15 16:51:52] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B112460518/energiepro-service-und-instandhaltungsmanagement-tga-gmbh.html
+[2025-04-15 16:51:57] [INFO] 🔎 Detaildaten: name=Energiepro Service- und Instandhaltungsmanagement TGA GmbH, phone=None, email=None, website=https://www.energiepro.de, address=Berner Str. 107 
+                                                                                    
+                                                                                                                
+                                            60437
+                                            Frankfurt
+                                                                                            (Nieder-Eschbach)
+[2025-04-15 16:51:57] [INFO] ✅ Gespeichert: Energiepro Service- und Instandhaltungsmanagement TGA GmbH | https://www.energiepro.de
+[2025-04-15 16:51:58] [INFO] [17/50] IBH Ingenieurbau für Haustechnik GmbH → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B107462096/ibh-ingenieurbau-fuer-haustechnik-gmbh.html
+[2025-04-15 16:51:58] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B107462096/ibh-ingenieurbau-fuer-haustechnik-gmbh.html
+[2025-04-15 16:52:01] [INFO] 🔎 Detaildaten: name=IBH Ingenieurbau für Haustechnik GmbH, phone=None, email=info@ibh-tga.de, website=http://www.ibh-tga.de, address=Schweinfurter Weg 51 
+                                                                                    
+                                                                                                                
+                                            60599
+                                            Frankfurt
+                                                                                            (Sachsenhausen)
+[2025-04-15 16:52:01] [INFO] ✅ Gespeichert: IBH Ingenieurbau für Haustechnik GmbH | http://www.ibh-tga.de
+[2025-04-15 16:52:02] [INFO] [18/50] Joachim Horst Neuhaus Haustechnik → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B100449859/joachim-horst-neuhaus-haustechnik.html
+[2025-04-15 16:52:02] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B100449859/joachim-horst-neuhaus-haustechnik.html
+[2025-04-15 16:52:05] [INFO] 🔎 Detaildaten: name=Joachim Horst Neuhaus Haustechnik, phone=None, email=info@neuhaus-haustechnik.de, website=https://www.neuhaus-haustechnik.de, address=Ludwig-Richter-Str. 4 
+                                                                                    
+                                                                                                                
+                                            60433
+                                            Frankfurt
+                                                                                            (Eschersheim)
+[2025-04-15 16:52:05] [INFO] ✅ Gespeichert: Joachim Horst Neuhaus Haustechnik | https://www.neuhaus-haustechnik.de
+[2025-04-15 16:52:06] [INFO] [19/50] Jochen Aufschläger GmbH → https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B107506829/jochen-aufschlaeger-gmbh.html
+[2025-04-15 16:52:06] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/frankfurt-am-main/060692938B107506829/jochen-aufschlaeger-gmbh.html
+[2025-04-15 16:52:08] [INFO] 🔎 Detaildaten: name=Jochen Aufschläger GmbH, phone=None, email=None, website=None, address=None
+[2025-04-15 16:52:08] [INFO] ✅ Gespeichert: Jochen Aufschläger GmbH | None
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:09] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 16:52:10] [INFO] [✓] Gesamt gefunden: 19
+[2025-04-15 16:52:10] [INFO] [✓] Daten exportiert nach firmen_alle.csv
+[2025-04-15 16:52:16] [INFO] [⚠] Veraltet/Keine Website: 12
+[2025-04-15 16:52:16] [INFO] [✓] Daten exportiert nach firmen_veraltet.csv

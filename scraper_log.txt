@@ -1,0 +1,904 @@
+[2025-04-15 18:25:05] [INFO] [→] Ohne Website: 0
+[2025-04-15 18:25:05] [WARNING] [!] Export fehlgeschlagen: keine Daten für firmen_ohne_website.csv
+[2025-04-15 18:25:05] [INFO] [→] Potenziell veraltet: 0
+[2025-04-15 18:25:05] [WARNING] [!] Export fehlgeschlagen: keine Daten für firmen_veraltet.csv
+[2025-04-15 18:25:05] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:25:05] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:25:11] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:25:11] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:25:11] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:25:14] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:25:14] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:25:15] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:25:15] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:25:21] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:25:21] [INFO] ✅ Gespeichert: Große-Freese Sanitäre Installationen und Gasheizungen GmbH | None
+[2025-04-15 18:25:22] [INFO] [3/50] AC-Projekt Klimatechnik → https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:25:22] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:25:28] [INFO] 🔎 Detaildaten: name=AC-Projekt Klimatechnik, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Gneisenaustr. 58 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:25:28] [INFO] ✅ Gespeichert: AC-Projekt Klimatechnik | None
+[2025-04-15 18:25:29] [INFO] [4/50] Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH → https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:25:29] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:25:32] [INFO] 🔎 Detaildaten: name=Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH, phone=None, email=info@arvendo.de, website=http://www.arvendo.de/, address=Haller Str. 220 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Isselhorst)
+[2025-04-15 18:25:32] [INFO] ✅ Gespeichert: Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH | http://www.arvendo.de/
+[2025-04-15 18:25:33] [INFO] [5/50] Barzak GmbH Sanitär + Heizung → https://www.11880.com/branchenbuch/guetersloh/060693506B111261213/barzak-gmbh-sanitaer-heizung.html
+[2025-04-15 18:25:33] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060693506B111261213/barzak-gmbh-sanitaer-heizung.html
+[2025-04-15 18:25:36] [INFO] 🔎 Detaildaten: name=Barzak GmbH Sanitär + Heizung, phone=None, email=post@barzak.de, website=https://barzak.de, address=Dieselstr. 78 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:25:36] [INFO] ✅ Gespeichert: Barzak GmbH Sanitär + Heizung | https://barzak.de
+[2025-04-15 18:25:37] [INFO] [6/50] Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf → https://www.11880.com/branchenbuch/guetersloh/181843952B50088677/bentlage-martin-bema-haustechnik-guetersloh-sanitaerbedarf.html
+[2025-04-15 18:25:37] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/181843952B50088677/bentlage-martin-bema-haustechnik-guetersloh-sanitaerbedarf.html
+[2025-04-15 18:25:40] [INFO] 🔎 Detaildaten: name=Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf, phone=None, email=info@bema-haustechnik.de, website=http://www.bema-haustechnik.de, address=Feuerbornstr. 2 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:25:40] [INFO] ✅ Gespeichert: Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf | http://www.bema-haustechnik.de
+[2025-04-15 18:25:41] [INFO] [7/50] Brumm Dachdeckerei → https://www.11880.com/branchenbuch/guetersloh/060690565B102463331/brumm-dachdeckerei.html
+[2025-04-15 18:25:41] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060690565B102463331/brumm-dachdeckerei.html
+[2025-04-15 18:25:44] [INFO] 🔎 Detaildaten: name=Brumm Dachdeckerei, phone=None, email=bleifuss@augen-ring-dresden.de, website=http://augen-ring-dresden.de, address=Gertrudenweg 37 B
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:25:44] [INFO] ✅ Gespeichert: Brumm Dachdeckerei | http://augen-ring-dresden.de
+[2025-04-15 18:25:45] [INFO] [8/50] CRI Böckmann GmbH & Co. KG → https://www.11880.com/branchenbuch/guetersloh/060692320B27370241/cri-boeckmann-gmbh-co-kg.html
+[2025-04-15 18:25:45] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B27370241/cri-boeckmann-gmbh-co-kg.html
+[2025-04-15 18:25:48] [INFO] 🔎 Detaildaten: name=CRI Böckmann GmbH & Co. KG, phone=None, email=info@boeckmann-gt.de, website=http://www.boeckmann-heizung-sanitaer-solar.de/, address=Diekstr. 29 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:25:48] [INFO] ✅ Gespeichert: CRI Böckmann GmbH & Co. KG | http://www.boeckmann-heizung-sanitaer-solar.de/
+[2025-04-15 18:25:49] [INFO] [9/50] Füchtenkord GmbH Gas- und Wasserinstallation → https://www.11880.com/branchenbuch/guetersloh/060692320B53598275/fuechtenkord-gmbh-gas-und-wasserinstallation.html
+[2025-04-15 18:25:49] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B53598275/fuechtenkord-gmbh-gas-und-wasserinstallation.html
+[2025-04-15 18:25:52] [INFO] 🔎 Detaildaten: name=Füchtenkord GmbH Gas- und Wasserinstallation, phone=None, email=info@fuechtenkord.de, website=https://www.fuechtenkord.de, address=Alte Osnabrücker Str. 31 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:25:52] [INFO] ✅ Gespeichert: Füchtenkord GmbH Gas- und Wasserinstallation | https://www.fuechtenkord.de
+[2025-04-15 18:25:53] [INFO] [10/50] Horstmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26180417/horstmann-gmbh.html
+[2025-04-15 18:25:53] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26180417/horstmann-gmbh.html
+[2025-04-15 18:25:56] [INFO] 🔎 Detaildaten: name=Horstmann GmbH, phone=None, email=info@horstmann-heizung.de, website=http://www.horstmann-heizung.de/, address=Max-Reinhardt-Str. 7 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:25:56] [INFO] ✅ Gespeichert: Horstmann GmbH | http://www.horstmann-heizung.de/
+[2025-04-15 18:25:57] [INFO] [11/50] Kuhnke Heizungs- & Sanitärtechnik → https://www.11880.com/branchenbuch/guetersloh/060692320B112845686/kuhnke-heizungs-sanitaertechnik.html
+[2025-04-15 18:25:57] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B112845686/kuhnke-heizungs-sanitaertechnik.html
+[2025-04-15 18:26:00] [INFO] 🔎 Detaildaten: name=Kuhnke Heizungs- & Sanitärtechnik, phone=None, email=kontakt@kuhnke-hs.de, website=http://kuhnke-hs.de, address=Windelsbleicher Str. 23 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:26:00] [INFO] ✅ Gespeichert: Kuhnke Heizungs- & Sanitärtechnik | http://kuhnke-hs.de
+[2025-04-15 18:26:01] [INFO] [12/50] Rainer Lechler Sanitär- und Heizungskundendienst → https://www.11880.com/branchenbuch/guetersloh/060692320B27441682/rainer-lechler-sanitaer-und-heizungskundendienst.html
+[2025-04-15 18:26:01] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B27441682/rainer-lechler-sanitaer-und-heizungskundendienst.html
+[2025-04-15 18:26:04] [INFO] 🔎 Detaildaten: name=Rainer Lechler Sanitär- und Heizungskundendienst, phone=None, email=info@ostkamp-bauunternehmen.de, website=https://www.ostkamp-bauunternehmen.de, address=Surenhofsweg 100 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:26:04] [INFO] ✅ Gespeichert: Rainer Lechler Sanitär- und Heizungskundendienst | https://www.ostkamp-bauunternehmen.de
+[2025-04-15 18:26:05] [INFO] [13/50] Venjakob GmbH & Co. KG, Heinrich Heizung Sanitär und Klima → https://www.11880.com/branchenbuch/guetersloh/060692320B28047549/venjakob-gmbh-co-kg-heinrich-heizung-sanitaer-und-klima.html
+[2025-04-15 18:26:05] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B28047549/venjakob-gmbh-co-kg-heinrich-heizung-sanitaer-und-klima.html
+[2025-04-15 18:26:08] [INFO] 🔎 Detaildaten: name=Venjakob GmbH & Co. KG, Heinrich Heizung Sanitär und Klima, phone=None, email=info@shk-venjakob.de, website=http://www.shk-venjakob.de/, address=Saturnweg 3 
+                                                                                    
+                                                                                                                
+                                            33332
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:26:08] [INFO] ✅ Gespeichert: Venjakob GmbH & Co. KG, Heinrich Heizung Sanitär und Klima | http://www.shk-venjakob.de/
+[2025-04-15 18:26:09] [INFO] [14/50] Verlsteffen Haustechnik GmbH → https://www.11880.com/branchenbuch/guetersloh/060371176B27275473/verlsteffen-haustechnik-gmbh.html
+[2025-04-15 18:26:09] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060371176B27275473/verlsteffen-haustechnik-gmbh.html
+[2025-04-15 18:26:12] [INFO] 🔎 Detaildaten: name=Verlsteffen Haustechnik GmbH, phone=None, email=info@verlsteffen-haustechnik.de, website=http://verlsteffen-haustechnik.de, address=Friedrichsdorfer Str. 42 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:26:12] [INFO] ✅ Gespeichert: Verlsteffen Haustechnik GmbH | http://verlsteffen-haustechnik.de
+[2025-04-15 18:26:13] [INFO] [15/50] Wiedenlübbert GmbH ZentralHeiz. Install. → https://www.11880.com/branchenbuch/guetersloh/061356614B26934792/wiedenluebbert-gmbh-zentralheiz-install.html
+[2025-04-15 18:26:13] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/061356614B26934792/wiedenluebbert-gmbh-zentralheiz-install.html
+[2025-04-15 18:26:15] [INFO] 🔎 Detaildaten: name=Wiedenlübbert GmbH ZentralHeiz. Install., phone=None, email=wiedenluebbert@aol.com, website=http://www.wiedenluebbert-gmbh.de/, address=Diekstr. 38 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:26:16] [INFO] ✅ Gespeichert: Wiedenlübbert GmbH ZentralHeiz. Install. | http://www.wiedenluebbert-gmbh.de/
+[2025-04-15 18:26:17] [INFO] [16/50] Wixforth GmbH & Co. KG Installationen Heizungsbau → https://www.11880.com/branchenbuch/guetersloh/060692320B29414978/wixforth-gmbh-co-kg-installationen-heizungsbau.html
+[2025-04-15 18:26:17] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B29414978/wixforth-gmbh-co-kg-installationen-heizungsbau.html
+[2025-04-15 18:26:20] [INFO] 🔎 Detaildaten: name=Wixforth GmbH & Co. KG Installationen Heizungsbau, phone=None, email=info@wixforth.com, website=https://www.wixforth.com, address=Jägerstr. 40 A
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:26:20] [INFO] ✅ Gespeichert: Wixforth GmbH & Co. KG Installationen Heizungsbau | https://www.wixforth.com
+[2025-04-15 18:26:21] [INFO] [17/50] Diestelkamp Kälte-Klima GmbH Klimatechnik → https://www.11880.com/branchenbuch/guetersloh/061356614B26755551/diestelkamp-kaelte-klima-gmbh-klimatechnik.html
+[2025-04-15 18:26:21] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/061356614B26755551/diestelkamp-kaelte-klima-gmbh-klimatechnik.html
+[2025-04-15 18:26:23] [INFO] 🔎 Detaildaten: name=Diestelkamp Kälte-Klima GmbH Klimatechnik, phone=None, email=post@diestelkamp.de, website=https://www.diestelkamp.de, address=Gartenstr. 6 A
+                                                                                    
+                                                                                                                
+                                            33332
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:26:23] [INFO] ✅ Gespeichert: Diestelkamp Kälte-Klima GmbH Klimatechnik | https://www.diestelkamp.de
+[2025-04-15 18:26:24] [INFO] [18/50] Dietmar Kästel Installateur- und Heizungsbaumeister → https://www.11880.com/branchenbuch/guetersloh/060692320B28910716/dietmar-kaestel-installateur-und-heizungsbaumeister.html
+[2025-04-15 18:26:24] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B28910716/dietmar-kaestel-installateur-und-heizungsbaumeister.html
+[2025-04-15 18:26:27] [INFO] 🔎 Detaildaten: name=Dietmar Kästel Installateur- und Heizungsbaumeister, phone=None, email=kaestel-installationen@t-online.de, website=http://www.cylex-branchenbuch-guetersloh.de/firma-home/dietmar-kaestel-installateur--und-heizungsbaumeister-6379399.html, address=Alter Schützenplatz 8 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:26:27] [INFO] ✅ Gespeichert: Dietmar Kästel Installateur- und Heizungsbaumeister | http://www.cylex-branchenbuch-guetersloh.de/firma-home/dietmar-kaestel-installateur--und-heizungsbaumeister-6379399.html
+[2025-04-15 18:26:28] [INFO] [19/50] Heizung Andreas Müller → https://www.11880.com/branchenbuch/guetersloh/060692320B54073580/heizung-andreas-mueller.html
+[2025-04-15 18:26:28] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B54073580/heizung-andreas-mueller.html
+[2025-04-15 18:26:31] [INFO] 🔎 Detaildaten: name=Heizung Andreas Müller, phone=None, email=info@mueller-baddesign.de, website=https://www.mueller-baddesign.de, address=Am Röhrbach 130 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Isselhorst)
+[2025-04-15 18:26:31] [INFO] ✅ Gespeichert: Heizung Andreas Müller | https://www.mueller-baddesign.de
+[2025-04-15 18:26:32] [INFO] [20/50] J. G. Schumacher Sanitär Heizung → https://www.11880.com/branchenbuch/guetersloh/060692320B26558990/j-g-schumacher-sanitaer-heizung.html
+[2025-04-15 18:26:32] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26558990/j-g-schumacher-sanitaer-heizung.html
+[2025-04-15 18:26:35] [INFO] 🔎 Detaildaten: name=J. G. Schumacher Sanitär Heizung, phone=None, email=j.g.schumacher@web.de, website=https://paartherapie-muenster-schoenebeck.de, address=Heidewaldstr. 42 
+                                                                                    
+                                                                                                                
+                                            33332
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:26:35] [INFO] ✅ Gespeichert: J. G. Schumacher Sanitär Heizung | https://paartherapie-muenster-schoenebeck.de
+[2025-04-15 18:26:36] [INFO] [21/50] Klaus Erl Wärmetechnik → https://www.11880.com/branchenbuch/guetersloh/060692320B26854457/klaus-erl-waermetechnik.html
+[2025-04-15 18:26:36] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26854457/klaus-erl-waermetechnik.html
+[2025-04-15 18:26:39] [INFO] 🔎 Detaildaten: name=Klaus Erl Wärmetechnik, phone=None, email=mailbox@microtec-info.de, website=https://www.microtec-gt.de/about/, address=Am Pfarrkamp 3 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Isselhorst)
+[2025-04-15 18:26:39] [INFO] ✅ Gespeichert: Klaus Erl Wärmetechnik | https://www.microtec-gt.de/about/
+[2025-04-15 18:26:40] [INFO] [22/50] KR Klaus Reckmeyer TGA VDI → https://www.11880.com/branchenbuch/guetersloh/060692320B27028418/kr-klaus-reckmeyer-tga-vdi.html
+[2025-04-15 18:26:40] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B27028418/kr-klaus-reckmeyer-tga-vdi.html
+[2025-04-15 18:26:43] [INFO] 🔎 Detaildaten: name=KR Klaus Reckmeyer TGA VDI, phone=None, email=info@kr-tga.de, website=https://www.kr-tga.de, address=Wiedenbrücker Str. 130 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:26:43] [INFO] ✅ Gespeichert: KR Klaus Reckmeyer TGA VDI | https://www.kr-tga.de
+[2025-04-15 18:26:44] [INFO] [23/50] MG Sanitär Heizung Klima Manuel Gottsleben → https://www.11880.com/branchenbuch/guetersloh/120675704B113364206/mg-sanitaer-heizung-klima-manuel-gottsleben.html
+[2025-04-15 18:26:44] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/120675704B113364206/mg-sanitaer-heizung-klima-manuel-gottsleben.html
+[2025-04-15 18:26:47] [INFO] 🔎 Detaildaten: name=MG Sanitär Heizung Klima Manuel Gottsleben, phone=None, email=info@shk-gottsleben.de, website=https://shk-gottsleben.de, address=Vogesenweg 2 
+                                                                                    
+                                                                                                                
+                                            33332
+                                            Gütersloh
+                                                                                            (Spexard)
+[2025-04-15 18:26:47] [INFO] ✅ Gespeichert: MG Sanitär Heizung Klima Manuel Gottsleben | https://shk-gottsleben.de
+[2025-04-15 18:26:48] [INFO] [24/50] Michael Brockel Heizungsbau → https://www.11880.com/branchenbuch/guetersloh/060692320B28158267/michael-brockel-heizungsbau.html
+[2025-04-15 18:26:48] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B28158267/michael-brockel-heizungsbau.html
+[2025-04-15 18:26:51] [INFO] 🔎 Detaildaten: name=Michael Brockel Heizungsbau, phone=None, email=mail@m-brockel.de, website=http://www.m-brockel.de, address=Osnabrücker Landstr. 102 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:26:51] [INFO] ✅ Gespeichert: Michael Brockel Heizungsbau | http://www.m-brockel.de
+[2025-04-15 18:26:52] [INFO] [25/50] Ralf Hagemann Zentralheizungs- und Lüftungsbauermeister → https://www.11880.com/branchenbuch/guetersloh/060692320B49840543/ralf-hagemann-zentralheizungs-und-lueftungsbauermeister.html
+[2025-04-15 18:26:52] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B49840543/ralf-hagemann-zentralheizungs-und-lueftungsbauermeister.html
+[2025-04-15 18:26:58] [INFO] 🔎 Detaildaten: name=Ralf Hagemann Zentralheizungs- und Lüftungsbauermeister, phone=None, email=rs.hagemann@t-online.de, website=None, address=Heidewaldstr. 68 
+                                                                                    
+                                                                                                                
+                                            33332
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:26:58] [INFO] ✅ Gespeichert: Ralf Hagemann Zentralheizungs- und Lüftungsbauermeister | None
+[2025-04-15 18:26:59] [INFO] [26/50] Borree Christian Heizungs- u. Sanitärtechnik Heizungstechnik → https://www.11880.com/branchenbuch/guetersloh/060692320B29372478/borree-christian-heizungs-u-sanitaertechnik-heizungstechnik.html
+[2025-04-15 18:26:59] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B29372478/borree-christian-heizungs-u-sanitaertechnik-heizungstechnik.html
+[2025-04-15 18:27:02] [INFO] 🔎 Detaildaten: name=Borree Christian Heizungs- u. Sanitärtechnik Heizungstechnik, phone=None, email=None, website=None, address=None
+[2025-04-15 18:27:02] [INFO] ✅ Gespeichert: Borree Christian Heizungs- u. Sanitärtechnik Heizungstechnik | None
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:27:03] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=2
+[2025-04-15 18:31:07] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:31:08] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:31:13] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:31:13] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:31:13] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:31:16] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:31:16] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:31:17] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:31:17] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:31:23] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:31:23] [INFO] ✅ Gespeichert: Große-Freese Sanitäre Installationen und Gasheizungen GmbH | None
+[2025-04-15 18:31:24] [INFO] [3/50] AC-Projekt Klimatechnik → https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:31:24] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:31:30] [INFO] 🔎 Detaildaten: name=AC-Projekt Klimatechnik, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Gneisenaustr. 58 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:31:30] [INFO] ✅ Gespeichert: AC-Projekt Klimatechnik | None
+[2025-04-15 18:31:31] [INFO] [4/50] Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH → https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:31:31] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:31:34] [INFO] 🔎 Detaildaten: name=Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH, phone=None, email=info@arvendo.de, website=http://www.arvendo.de/, address=Haller Str. 220 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Isselhorst)
+[2025-04-15 18:31:34] [INFO] ✅ Gespeichert: Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH | http://www.arvendo.de/
+[2025-04-15 18:31:35] [INFO] [5/50] Barzak GmbH Sanitär + Heizung → https://www.11880.com/branchenbuch/guetersloh/060693506B111261213/barzak-gmbh-sanitaer-heizung.html
+[2025-04-15 18:31:35] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060693506B111261213/barzak-gmbh-sanitaer-heizung.html
+[2025-04-15 18:31:38] [INFO] 🔎 Detaildaten: name=Barzak GmbH Sanitär + Heizung, phone=None, email=post@barzak.de, website=https://barzak.de, address=Dieselstr. 78 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:31:38] [INFO] ✅ Gespeichert: Barzak GmbH Sanitär + Heizung | https://barzak.de
+[2025-04-15 18:31:39] [INFO] [6/50] Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf → https://www.11880.com/branchenbuch/guetersloh/181843952B50088677/bentlage-martin-bema-haustechnik-guetersloh-sanitaerbedarf.html
+[2025-04-15 18:31:39] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/181843952B50088677/bentlage-martin-bema-haustechnik-guetersloh-sanitaerbedarf.html
+[2025-04-15 18:31:42] [INFO] 🔎 Detaildaten: name=Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf, phone=None, email=info@bema-haustechnik.de, website=http://www.bema-haustechnik.de, address=Feuerbornstr. 2 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:31:42] [INFO] ✅ Gespeichert: Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf | http://www.bema-haustechnik.de
+[2025-04-15 18:31:43] [INFO] [7/50] Brumm Dachdeckerei → https://www.11880.com/branchenbuch/guetersloh/060690565B102463331/brumm-dachdeckerei.html
+[2025-04-15 18:31:43] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060690565B102463331/brumm-dachdeckerei.html
+[2025-04-15 18:31:46] [INFO] 🔎 Detaildaten: name=Brumm Dachdeckerei, phone=None, email=bleifuss@augen-ring-dresden.de, website=http://augen-ring-dresden.de, address=Gertrudenweg 37 B
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:31:46] [INFO] ✅ Gespeichert: Brumm Dachdeckerei | http://augen-ring-dresden.de
+[2025-04-15 18:31:47] [INFO] [8/50] CRI Böckmann GmbH & Co. KG → https://www.11880.com/branchenbuch/guetersloh/060692320B27370241/cri-boeckmann-gmbh-co-kg.html
+[2025-04-15 18:31:47] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B27370241/cri-boeckmann-gmbh-co-kg.html
+[2025-04-15 18:31:50] [INFO] 🔎 Detaildaten: name=CRI Böckmann GmbH & Co. KG, phone=None, email=info@boeckmann-gt.de, website=http://www.boeckmann-heizung-sanitaer-solar.de/, address=Diekstr. 29 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:31:50] [INFO] ✅ Gespeichert: CRI Böckmann GmbH & Co. KG | http://www.boeckmann-heizung-sanitaer-solar.de/
+[2025-04-15 18:31:51] [INFO] [9/50] Füchtenkord GmbH Gas- und Wasserinstallation → https://www.11880.com/branchenbuch/guetersloh/060692320B53598275/fuechtenkord-gmbh-gas-und-wasserinstallation.html
+[2025-04-15 18:31:51] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B53598275/fuechtenkord-gmbh-gas-und-wasserinstallation.html
+[2025-04-15 18:31:54] [INFO] 🔎 Detaildaten: name=Füchtenkord GmbH Gas- und Wasserinstallation, phone=None, email=info@fuechtenkord.de, website=https://www.fuechtenkord.de, address=Alte Osnabrücker Str. 31 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:31:54] [INFO] ✅ Gespeichert: Füchtenkord GmbH Gas- und Wasserinstallation | https://www.fuechtenkord.de
+[2025-04-15 18:31:55] [INFO] [10/50] Horstmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26180417/horstmann-gmbh.html
+[2025-04-15 18:31:55] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26180417/horstmann-gmbh.html
+[2025-04-15 18:31:58] [INFO] 🔎 Detaildaten: name=Horstmann GmbH, phone=None, email=info@horstmann-heizung.de, website=http://www.horstmann-heizung.de/, address=Max-Reinhardt-Str. 7 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:31:58] [INFO] ✅ Gespeichert: Horstmann GmbH | http://www.horstmann-heizung.de/
+[2025-04-15 18:31:59] [INFO] [11/50] Kuhnke Heizungs- & Sanitärtechnik → https://www.11880.com/branchenbuch/guetersloh/060692320B112845686/kuhnke-heizungs-sanitaertechnik.html
+[2025-04-15 18:31:59] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B112845686/kuhnke-heizungs-sanitaertechnik.html
+[2025-04-15 18:32:01] [INFO] 🔎 Detaildaten: name=Kuhnke Heizungs- & Sanitärtechnik, phone=None, email=None, website=None, address=None
+[2025-04-15 18:32:01] [INFO] ✅ Gespeichert: Kuhnke Heizungs- & Sanitärtechnik | None
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 12: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 13: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 14: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 15: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 16: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 17: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 18: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 19: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:32:02] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=2
+[2025-04-15 18:33:55] [INFO] [•] Starte Scrape: klempner in gütersloh
+[2025-04-15 18:34:02] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:34:08] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:34:08] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:34:08] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:34:11] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:34:11] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:34:12] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:34:12] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:34:18] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:34:18] [INFO] ✅ Gespeichert: Große-Freese Sanitäre Installationen und Gasheizungen GmbH | None
+[2025-04-15 18:34:19] [INFO] [3/50] AC-Projekt Klimatechnik → https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:34:19] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:34:22] [INFO] 🔎 Detaildaten: name=AC-Projekt Klimatechnik, phone=None, email=None, website=None, address=Gneisenaustr. 58 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:34:22] [INFO] ✅ Gespeichert: AC-Projekt Klimatechnik | None
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 4: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 5: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 6: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 7: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 8: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 9: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 10: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 11: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 12: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 13: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 14: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 15: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 16: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 17: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 18: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 19: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:34:23] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=2
+[2025-04-15 18:36:31] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:36:32] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:36:37] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:36:37] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:36:37] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:36:40] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:36:40] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:36:41] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:36:41] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:36:47] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:36:47] [INFO] ✅ Gespeichert: Große-Freese Sanitäre Installationen und Gasheizungen GmbH | None
+[2025-04-15 18:36:48] [INFO] [3/50] AC-Projekt Klimatechnik → https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:36:48] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:36:54] [INFO] 🔎 Detaildaten: name=AC-Projekt Klimatechnik, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Gneisenaustr. 58 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:36:54] [INFO] ✅ Gespeichert: AC-Projekt Klimatechnik | None
+[2025-04-15 18:36:55] [INFO] [4/50] Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH → https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:36:55] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:36:59] [ERROR] Fehler bei Detailseite https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html", waiting until "load"
+
+[2025-04-15 18:36:59] [INFO] ⚠️ Kein Business-Objekt zurückgegeben für https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 5: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 6: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 7: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 8: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 9: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 10: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 11: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 12: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 13: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 14: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 15: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 16: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 17: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 18: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 19: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:00] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:37:01] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=2
+[2025-04-15 18:37:01] [INFO] [✓] Gesamt gefunden: 0
+[2025-04-15 18:37:01] [WARNING] [!] Keine Daten zum Exportieren.
+[2025-04-15 18:37:23] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:37:24] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:37:29] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:37:29] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:37:29] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:37:32] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:37:33] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:37:34] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:37:34] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:37:39] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:37:40] [INFO] ✅ Gespeichert: Große-Freese Sanitäre Installationen und Gasheizungen GmbH | None
+[2025-04-15 18:37:41] [INFO] [3/50] AC-Projekt Klimatechnik → https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:37:41] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:37:47] [INFO] 🔎 Detaildaten: name=AC-Projekt Klimatechnik, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Gneisenaustr. 58 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:37:47] [INFO] ✅ Gespeichert: AC-Projekt Klimatechnik | None
+[2025-04-15 18:37:48] [INFO] [4/50] Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH → https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:37:48] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:37:51] [INFO] 🔎 Detaildaten: name=Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH, phone=None, email=info@arvendo.de, website=http://www.arvendo.de/, address=Haller Str. 220 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Isselhorst)
+[2025-04-15 18:37:51] [INFO] ✅ Gespeichert: Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH | http://www.arvendo.de/
+[2025-04-15 18:37:52] [INFO] [5/50] Barzak GmbH Sanitär + Heizung → https://www.11880.com/branchenbuch/guetersloh/060693506B111261213/barzak-gmbh-sanitaer-heizung.html
+[2025-04-15 18:37:52] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060693506B111261213/barzak-gmbh-sanitaer-heizung.html
+[2025-04-15 18:37:55] [INFO] 🔎 Detaildaten: name=Barzak GmbH Sanitär + Heizung, phone=None, email=post@barzak.de, website=https://barzak.de, address=Dieselstr. 78 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:37:55] [INFO] ✅ Gespeichert: Barzak GmbH Sanitär + Heizung | https://barzak.de
+[2025-04-15 18:37:56] [INFO] [6/50] Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf → https://www.11880.com/branchenbuch/guetersloh/181843952B50088677/bentlage-martin-bema-haustechnik-guetersloh-sanitaerbedarf.html
+[2025-04-15 18:37:56] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/181843952B50088677/bentlage-martin-bema-haustechnik-guetersloh-sanitaerbedarf.html
+[2025-04-15 18:37:59] [INFO] 🔎 Detaildaten: name=Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf, phone=None, email=info@bema-haustechnik.de, website=http://www.bema-haustechnik.de, address=Feuerbornstr. 2 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:37:59] [INFO] ✅ Gespeichert: Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf | http://www.bema-haustechnik.de
+[2025-04-15 18:38:00] [INFO] [7/50] Brumm Dachdeckerei → https://www.11880.com/branchenbuch/guetersloh/060690565B102463331/brumm-dachdeckerei.html
+[2025-04-15 18:38:00] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060690565B102463331/brumm-dachdeckerei.html
+[2025-04-15 18:38:02] [INFO] 🔎 Detaildaten: name=Brumm Dachdeckerei, phone=None, email=None, website=None, address=None
+[2025-04-15 18:38:02] [INFO] ✅ Gespeichert: Brumm Dachdeckerei | None
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 8: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 9: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 10: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 11: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 12: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 13: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 14: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 15: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 16: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 17: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 18: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 19: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 20: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 21: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 22: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 23: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 24: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 25: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 26: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 27: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 28: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 29: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 30: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 31: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 32: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 33: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 34: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 35: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 36: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 37: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 38: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 39: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 40: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 41: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 42: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 43: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 44: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 45: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 46: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 47: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 48: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 49: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [ERROR] Fehler bei Eintrag 50: Locator.text_content: Target page, context or browser has been closed
+[2025-04-15 18:38:03] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=2
+[2025-04-15 18:38:03] [INFO] [✓] Gesamt gefunden: 0
+[2025-04-15 18:38:03] [WARNING] [!] Keine Daten zum Exportieren.
+[2025-04-15 18:39:10] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:39:10] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:39:16] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:39:16] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:39:16] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:39:19] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:39:19] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:39:20] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:39:20] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:39:20] [WARNING] 🛑 Abbruch durch Benutzer (STRG+C) – speichere, was gefunden wurde ...
+[2025-04-15 18:39:20] [INFO] [✓] Gesamt gefunden: 0
+[2025-04-15 18:39:20] [WARNING] [!] Keine Daten zum Exportieren.
+[2025-04-15 18:41:12] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:41:12] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:41:18] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:41:18] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:41:18] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:41:21] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:41:21] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:41:22] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:41:22] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:41:28] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:41:28] [INFO] ✅ Gespeichert: Große-Freese Sanitäre Installationen und Gasheizungen GmbH | None
+[2025-04-15 18:41:29] [WARNING] 🛑 Manueller Abbruch mitten im Scrape – speichere Zwischenstand!
+[2025-04-15 18:41:29] [INFO] [✓] Daten exportiert nach zwischenstand_klempner_gütersloh.csv
+[2025-04-15 18:41:29] [INFO] [💾] Daten aus aktuellem Scrape gespeichert nach zwischenstand_klempner_gütersloh.csv
+[2025-04-15 18:41:29] [INFO] [✓] Gesamt gefunden: 0
+[2025-04-15 18:41:29] [WARNING] [!] Keine Daten zum Exportieren.
+[2025-04-15 18:43:36] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:43:37] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:43:42] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:43:42] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:43:42] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:43:45] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:43:45] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:43:46] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:43:46] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:43:52] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:43:52] [INFO] ✅ Gespeichert: Große-Freese Sanitäre Installationen und Gasheizungen GmbH | None
+[2025-04-15 18:43:53] [INFO] [3/50] AC-Projekt Klimatechnik → https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:43:53] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:43:59] [INFO] 🔎 Detaildaten: name=AC-Projekt Klimatechnik, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Gneisenaustr. 58 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:43:59] [INFO] ✅ Gespeichert: AC-Projekt Klimatechnik | None
+[2025-04-15 18:44:00] [INFO] [4/50] Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH → https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:44:00] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:44:01] [WARNING] 🛑 Manueller Abbruch mitten im Scrape – speichere Zwischenstand!
+[2025-04-15 18:44:01] [INFO] [✓] Daten exportiert nach zwischenstand_klempner_gütersloh.csv
+[2025-04-15 18:44:01] [INFO] [💾] Daten aus aktuellem Scrape gespeichert nach zwischenstand_klempner_gütersloh.csv
+[2025-04-15 18:45:59] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:46:00] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:46:05] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:46:05] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:46:05] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:46:09] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:46:09] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:46:10] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:46:10] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:46:16] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:46:16] [INFO] ✅ Gespeichert: Große-Freese Sanitäre Installationen und Gasheizungen GmbH | None
+[2025-04-15 18:46:17] [INFO] [3/50] AC-Projekt Klimatechnik → https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:46:17] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B102728506/ac-projekt-klimatechnik.html
+[2025-04-15 18:46:23] [INFO] 🔎 Detaildaten: name=AC-Projekt Klimatechnik, phone=None, email=E-Mail-Adresse hinzufügen, website=None, address=Gneisenaustr. 58 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:46:23] [INFO] ✅ Gespeichert: AC-Projekt Klimatechnik | None
+[2025-04-15 18:46:24] [INFO] [4/50] Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH → https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:46:24] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060694568B107498739/arvendo-vertriebs-und-produktionsgesellschaft-fuer-gebaeudetechnik-mbh.html
+[2025-04-15 18:46:27] [INFO] 🔎 Detaildaten: name=Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH, phone=None, email=info@arvendo.de, website=http://www.arvendo.de/, address=Haller Str. 220 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Isselhorst)
+[2025-04-15 18:46:27] [INFO] ✅ Gespeichert: Arvendo Vertriebs- und Produktionsgesellschaft für Gebäudetechnik mbH | http://www.arvendo.de/
+[2025-04-15 18:46:28] [INFO] [5/50] Barzak GmbH Sanitär + Heizung → https://www.11880.com/branchenbuch/guetersloh/060693506B111261213/barzak-gmbh-sanitaer-heizung.html
+[2025-04-15 18:46:28] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060693506B111261213/barzak-gmbh-sanitaer-heizung.html
+[2025-04-15 18:46:31] [INFO] 🔎 Detaildaten: name=Barzak GmbH Sanitär + Heizung, phone=None, email=post@barzak.de, website=https://barzak.de, address=Dieselstr. 78 
+                                                                                    
+                                                                                                                
+                                            33334
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:46:31] [INFO] ✅ Gespeichert: Barzak GmbH Sanitär + Heizung | https://barzak.de
+[2025-04-15 18:46:32] [INFO] [6/50] Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf → https://www.11880.com/branchenbuch/guetersloh/181843952B50088677/bentlage-martin-bema-haustechnik-guetersloh-sanitaerbedarf.html
+[2025-04-15 18:46:32] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/181843952B50088677/bentlage-martin-bema-haustechnik-guetersloh-sanitaerbedarf.html
+[2025-04-15 18:46:35] [INFO] 🔎 Detaildaten: name=Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf, phone=None, email=info@bema-haustechnik.de, website=http://www.bema-haustechnik.de, address=Feuerbornstr. 2 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:46:35] [INFO] ✅ Gespeichert: Bentlage Martin BEMA Haustechnik Gütersloh Sanitärbedarf | http://www.bema-haustechnik.de
+[2025-04-15 18:46:36] [INFO] [7/50] Brumm Dachdeckerei → https://www.11880.com/branchenbuch/guetersloh/060690565B102463331/brumm-dachdeckerei.html
+[2025-04-15 18:46:36] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060690565B102463331/brumm-dachdeckerei.html
+[2025-04-15 18:46:39] [INFO] 🔎 Detaildaten: name=Brumm Dachdeckerei, phone=None, email=bleifuss@augen-ring-dresden.de, website=http://augen-ring-dresden.de, address=Gertrudenweg 37 B
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:46:39] [INFO] ✅ Gespeichert: Brumm Dachdeckerei | http://augen-ring-dresden.de
+[2025-04-15 18:46:40] [INFO] [8/50] CRI Böckmann GmbH & Co. KG → https://www.11880.com/branchenbuch/guetersloh/060692320B27370241/cri-boeckmann-gmbh-co-kg.html
+[2025-04-15 18:46:40] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B27370241/cri-boeckmann-gmbh-co-kg.html
+[2025-04-15 18:46:43] [INFO] 🔎 Detaildaten: name=CRI Böckmann GmbH & Co. KG, phone=None, email=info@boeckmann-gt.de, website=http://www.boeckmann-heizung-sanitaer-solar.de/, address=Diekstr. 29 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:46:43] [INFO] ✅ Gespeichert: CRI Böckmann GmbH & Co. KG | http://www.boeckmann-heizung-sanitaer-solar.de/
+[2025-04-15 18:46:44] [INFO] [9/50] Füchtenkord GmbH Gas- und Wasserinstallation → https://www.11880.com/branchenbuch/guetersloh/060692320B53598275/fuechtenkord-gmbh-gas-und-wasserinstallation.html
+[2025-04-15 18:46:44] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B53598275/fuechtenkord-gmbh-gas-und-wasserinstallation.html
+[2025-04-15 18:46:47] [INFO] 🔎 Detaildaten: name=Füchtenkord GmbH Gas- und Wasserinstallation, phone=None, email=info@fuechtenkord.de, website=https://www.fuechtenkord.de, address=Alte Osnabrücker Str. 31 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Avenwedde)
+[2025-04-15 18:46:47] [INFO] ✅ Gespeichert: Füchtenkord GmbH Gas- und Wasserinstallation | https://www.fuechtenkord.de
+[2025-04-15 18:46:48] [INFO] [10/50] Horstmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26180417/horstmann-gmbh.html
+[2025-04-15 18:46:48] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26180417/horstmann-gmbh.html
+[2025-04-15 18:46:51] [INFO] 🔎 Detaildaten: name=Horstmann GmbH, phone=None, email=info@horstmann-heizung.de, website=http://www.horstmann-heizung.de/, address=Max-Reinhardt-Str. 7 
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:46:51] [INFO] ✅ Gespeichert: Horstmann GmbH | http://www.horstmann-heizung.de/
+[2025-04-15 18:46:52] [INFO] [11/50] Kuhnke Heizungs- & Sanitärtechnik → https://www.11880.com/branchenbuch/guetersloh/060692320B112845686/kuhnke-heizungs-sanitaertechnik.html
+[2025-04-15 18:46:52] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B112845686/kuhnke-heizungs-sanitaertechnik.html
+[2025-04-15 18:46:55] [INFO] 🔎 Detaildaten: name=Kuhnke Heizungs- & Sanitärtechnik, phone=None, email=kontakt@kuhnke-hs.de, website=http://kuhnke-hs.de, address=Windelsbleicher Str. 23 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:46:55] [INFO] ✅ Gespeichert: Kuhnke Heizungs- & Sanitärtechnik | http://kuhnke-hs.de
+[2025-04-15 18:46:56] [INFO] [12/50] Rainer Lechler Sanitär- und Heizungskundendienst → https://www.11880.com/branchenbuch/guetersloh/060692320B27441682/rainer-lechler-sanitaer-und-heizungskundendienst.html
+[2025-04-15 18:46:56] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B27441682/rainer-lechler-sanitaer-und-heizungskundendienst.html
+[2025-04-15 18:46:56] [WARNING] 🛑 Manueller Abbruch mitten im Scrape – gebe zurück, was ich habe.
+[2025-04-15 18:47:47] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:47:48] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:47:54] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:47:54] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:47:54] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:47:57] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:47:57] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:47:58] [INFO] [2/50] Große-Freese Sanitäre Installationen und Gasheizungen GmbH → https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:47:58] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692938B112565766/grosse-freese-sanitaere-installationen-und-gasheizungen-gmbh.html
+[2025-04-15 18:48:15] [INFO] 🔎 Detaildaten: name=Große-Freese Sanitäre Installationen und Gasheizungen GmbH, phone=None, email=None, website=None, address=Unter den Ulmen 66 a
+                                                                                    
+                                                                                                                
+                                            33330
+                                            Gütersloh
+                                                                                            (Innenstadt)
+[2025-04-15 18:48:20] [WARNING] 🛑 Manueller Abbruch mitten im Scrape – gebe zurück, was ich habe.
+[2025-04-15 18:48:48] [WARNING] 🛑 Manueller Abbruch – Scrape wurde gestoppt
+[2025-04-15 18:48:49] [WARNING] 🛑 Manueller Abbruch – speichere bisherigen Stand
+[2025-04-15 18:48:49] [INFO] [✓] Gesamt gefunden: 0
+[2025-04-15 18:48:49] [WARNING] [!] Keine Daten zum Exportieren.
+[2025-04-15 18:52:25] [INFO] [•] Suche: klempner in gütersloh
+[2025-04-15 18:52:25] [INFO] Scrape: https://www.11880.com/suche/klempner/gütersloh?page=1
+[2025-04-15 18:52:31] [INFO] Gefundene Firmen auf Seite 1: 50
+[2025-04-15 18:52:31] [INFO] [1/50] E. Holtmann GmbH → https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:52:31] [INFO] → Öffne Detailseite: https://www.11880.com/branchenbuch/guetersloh/060692320B26715253/e-holtmann-gmbh.html
+[2025-04-15 18:52:34] [INFO] 🔎 Detaildaten: name=E. Holtmann GmbH, phone=None, email=info@e-holtmann.de, website=https://www.e-holtmann.de, address=Brackweder Str. 12 
+                                                                                    
+                                                                                                                
+                                            33335
+                                            Gütersloh
+                                                                                            (Friedrichsdorf)
+[2025-04-15 18:52:34] [INFO] ✅ Gespeichert: E. Holtmann GmbH | https://www.e-holtmann.de
+[2025-04-15 18:52:34] [WARNING] 🛑 Abbruch innerhalb des Scrapes erkannt – Rückgabe der Ergebnisse
+[2025-04-15 18:52:34] [ERROR] ❌ Fehler beim Scrape: Browser.close: Connection closed while reading from the driver
+[2025-04-15 18:52:34] [INFO] [•] Suche: klempner in herford
+[2025-04-15 18:52:35] [INFO] Scrape: https://www.11880.com/suche/klempner/herford?page=1
+[2025-04-15 18:52:38] [WARNING] 🛑 Scraper komplett abgebrochen
+[2025-04-15 18:52:38] [INFO] [•] Suche: klempner in bremen
+[2025-04-15 18:52:39] [INFO] Scrape: https://www.11880.com/suche/klempner/bremen?page=1
+[2025-04-15 18:52:41] [WARNING] 🛑 Scraper komplett abgebrochen
+[2025-04-15 18:52:41] [INFO] [•] Suche: klempner in osnabrück
+[2025-04-15 18:52:41] [WARNING] 🛑 Scraper komplett abgebrochen
+[2025-04-15 18:52:41] [INFO] [•] Suche: klempner in münster
+[2025-04-15 18:52:42] [INFO] Scrape: https://www.11880.com/suche/klempner/münster?page=1
+[2025-04-15 18:52:43] [WARNING] 🛑 Scraper komplett abgebrochen
+[2025-04-15 18:52:43] [INFO] [•] Suche: elektriker in gütersloh
+[2025-04-15 18:52:44] [INFO] Scrape: https://www.11880.com/suche/elektriker/gütersloh?page=1
