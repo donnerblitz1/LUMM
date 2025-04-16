@@ -13,4 +13,4 @@ SEARCH_CITIES = [
 MAX_PAGES = 1
 
 # Maximale Anzahl an Einträgen, bevor die Suche abbricht
-MAX_ENTRIES = 10
+MAX_ENTRIES = 5

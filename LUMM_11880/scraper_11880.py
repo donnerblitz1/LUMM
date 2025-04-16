@@ -72,48 +72,50 @@ def scrape_detail_page(context, url: str):
     page = context.new_page()
     try:
         page.goto(url, timeout=15000)
-        # Warte kurz, bis DOM gerendert ist
         page.wait_for_load_state("networkidle")
-
-        # Oder klein wenig Sleep, falls JavaScript dynamisch Inhalte laden muss
-        # time.sleep(2)
 
         name = "Unbekannt"
         email = None
         website = None
+        address = None
 
-        # 1) Name als Beispiel:
-        # Manche Einträge haben <h1 class="company-name">, manche vielleicht nur <h1>
+        # (Beispiel) Name:
         name_elem = page.locator("h1.company-name, h1")
         if name_elem.count() > 0:
             name = name_elem.first.text_content().strip()
 
-        # 2) E-Mail-Adresse
-        # Versuch:  E-Mail liegt im #box-email-link -> .entry-detail-list__label
+        # (Beispiel) E-Mail:
         email_label = page.locator("#box-email-link .entry-detail-list__label")
         if email_label.count() > 0:
             raw_text = email_label.first.text_content().strip()
-            #  Manchmal steht direkt "info@rohrblitz.de" drin
-            #  oder das Wort "E-Mail schreiben". 
-            #  Wenn's "info@..." ist, speichern wir es.
             if "@" in raw_text:
                 email = raw_text
-            else:
-                email = None
 
-        # 3) Webseite
-        # Oft:  <a ... data-track-event="URL" href="https://www.example.de" />
-        website_elem = page.locator('a.tracking--entry-detail-website-link')
-        if website_elem.count() > 0:
-            website = website_elem.first.get_attribute("href")
+        # (Beispiel) Website:
+        website_el = page.locator("a.tracking--entry-detail-website-link")
+        if website_el.count() > 0:
+            website = website_el.first.get_attribute("href")
 
-        # Fenster schließen
+        if not website:
+            fallback_website = page.locator('[data-track-event="URL"]')
+            if fallback_website.count() > 0:
+                website = fallback_website.first.get_attribute("href")
+
+        # (Neu) Adresse als ganzer Block
+        address_container = page.locator('div[title="Adresse"]')
+        if address_container.count() > 0:
+            raw_address = address_container.first.inner_text()
+            # Leerzeichen/Sonderzeichen aufräumen (Zeilenumbrüche etc.)
+            # Für Excel oder CSV wollen wir das oft in einer Zeile
+            address = " ".join(raw_address.split())
+
         page.close()
 
         return {
             "name": name,
             "email": email,
-            "website": website
+            "website": website,
+            "address": address
         }
 
     except Exception as e:
