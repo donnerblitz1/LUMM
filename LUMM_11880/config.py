@@ -1,16 +1,16 @@
 # config.py
 
 SEARCH_KEYWORDS = [
-    "Klempner"
+    "maler"
 ]
 
 # Eine Liste mit Städten
 SEARCH_CITIES = [
-    "Münster"
+    "osnabrück"
 ]
 
 # Maximale Seitenanzahl, die wir scrapen wollen
 MAX_PAGES = 1
 
 # Maximale Anzahl an Einträgen, bevor die Suche abbricht
-MAX_ENTRIES = 5
+MAX_ENTRIES = 50
