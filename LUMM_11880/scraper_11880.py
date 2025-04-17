@@ -16,7 +16,7 @@ def scrape_11880(keyword: str, city: str, max_pages: int, max_entries: int = Non
 
     with sync_playwright() as p:
         # Im sichtbaren Modus starten, damit du siehst, was passiert:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(headless=True)
         context = browser.new_context()
         page = context.new_page()
 

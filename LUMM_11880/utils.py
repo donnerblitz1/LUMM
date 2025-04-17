@@ -1,37 +1,47 @@
-# utils.py
-
 import csv
 import os
 
+# Der vollständige Header für die CSV-Datei
+HEADER = [
+    "name", "email", "website", "address",
+    "reachable", "uses_https", "has_viewport",
+    "doctype_html4", "veraltet_score",
+]
+
 def save_to_csv(data_list, filename="ergebnisse.csv"):
-    import csv
-    import os
+    """Schreibt die Einträge aus *data_list* in *filename*.
+
+    Existiert die Datei noch nicht, wird zuerst immer die vollständige
+    Kopfzeile (HEADER) ausgegeben.
+    """
 
     file_exists = os.path.exists(filename)
 
-    # Wir wollen jetzt 4 Spalten
-    fieldnames = ["name", "email", "website", "address"]
+    # Datei anhängen (oder neu anlegen) und sicherstellen, dass wir UTF‑8 und LF verwenden
+    with open(filename, mode="w", newline="", encoding="utf-8") as csv_file:
+        writer = csv.DictWriter(
+            csv_file,
+            fieldnames=HEADER,
+            delimiter=";",
+            quotechar="\"",
+            quoting=csv.QUOTE_ALL,
+            restval=""  # Leerstring für Felder, die nicht im Dict vorhanden sind
+        )
 
-    with open(filename, mode="a", newline="", encoding="utf-8") as csv_file:
-        writer = csv.DictWriter(csv_file,
-                                fieldnames=fieldnames,
-                                delimiter=';',
-                                quotechar='"',
-                                quoting=csv.QUOTE_ALL)
-
+        # Header nur schreiben, wenn die Datei gerade neu angelegt wurde
         if not file_exists:
             writer.writeheader()
 
         for entry in data_list:
-            # Fehlende Werte (None) durch ..._NULL ersetzen
-            email_value = entry["email"] if entry.get("email") else "MAIL_NULL"
-            website_value = entry["website"] if entry.get("website") else "WEB_NULL"
-            address_value = entry["address"] if entry.get("address") else "ADDR_NULL"
-
             row = {
-                "name": entry["name"] or "",
-                "email": email_value,
-                "website": website_value,
-                "address": address_value
+                "name": entry.get("name", ""),
+                "email": entry.get("email") or "MAIL_NULL",
+                "website": entry.get("website") or "WEB_NULL",
+                "address": entry.get("address") or "ADDR_NULL",
+                "reachable": entry.get("reachable", ""),
+                "uses_https": entry.get("uses_https", ""),
+                "has_viewport": entry.get("has_viewport", ""),
+                "doctype_html4": entry.get("doctype_html4", ""),
+                "veraltet_score": entry.get("veraltet_score", ""),
             }
             writer.writerow(row)
